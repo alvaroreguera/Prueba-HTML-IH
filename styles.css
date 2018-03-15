@@ -27,7 +27,7 @@ nav a {
 }
 
 header {
-    background-image: url(/Users/alvaro/code/Ejercicio_NPM_JS_CSS/images/city-scape.svg); 
+    background-image: url(images/city-scape.svg); 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -144,7 +144,7 @@ header {
 }
 
 .second-content {
-    background-image: url(/Users/alvaro/code/Ejercicio_NPM_JS_CSS/images/forklift.svg);
+    background-image: url(images/forklift.svg);
     background-size: cover;
     color: white;
     position: relative;
